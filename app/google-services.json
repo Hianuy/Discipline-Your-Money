@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "937948226645",
+    "firebase_url": "https://discipline-your-money.firebaseio.com",
+    "project_id": "discipline-your-money",
+    "storage_bucket": "discipline-your-money.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937948226645:android:1d4da2c3ea71b51dcca0dc",
+        "android_client_info": {
+          "package_name": "com.example.disciplineYourMoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937948226645-5q1b5cafc0uls9dfd8uo6gf64j8i016m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.disciplineYourMoney",
+            "certificate_hash": "05eaad0590eed18c23e1f2ccdb96538eb3fe0f21"
+          }
+        },
+        {
+          "client_id": "937948226645-ctr3go5aggn4eb17vni926mvn3e326d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8PEBjs7jYuxXeJ6cGB5fGEl9bArURUo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937948226645-ctr3go5aggn4eb17vni926mvn3e326d1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

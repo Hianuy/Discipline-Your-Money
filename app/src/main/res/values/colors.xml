@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#01C7D2</color>
+    <color name="colorPrimaryDark">#00B2Bc</color>
+    <color name="colorAccent">#FF706A</color>
+    <color name="colorCustomBar">#FFEB3B</color>
+
+
+    <color name="colorPrimaryExpense">#FF706A</color>
+    <color name="colorPrimaryDarkExpense">#E66560</color>
+    <color name="colorAcentExpense">#FF706A</color>
+
+
+    <color name="colorPrimaryRecipe">#00D39E</color>
+    <color name="colorPrimaryDarkRecipe">#00BE8B</color>
+    <color name="colorAcentRecipe">#00D39E</color>
+    <color name="colorGrey">#858483</color>
+
+
+
+
+
+
+
+
+
+</resources>
